@@ -1,0 +1,62 @@
+{
+    "Wellness": [
+        {
+            "Q": "Do you sometimes feel fever, fatigue, shortness or breath, or nausea?",
+            "A": "Nope, I feel pretty okay most of the time."
+        },
+        {
+            "Q": "How many times do you usually eat a full meal in a day?",
+            "A": "I eat like 3 meals, breakfast, lunch, and dinner. Sometimes snacks too."
+        },
+        {
+            "Q": "How often do you wakeup throughout the night?",
+            "A": "I usually sleep all night. Don't really wake up until morning."
+        },
+        {
+            "Q": "Do you normally feel very angry, sad, or anxious throughout the day?",
+            "A": "Not really, I'm usually pretty chill or happy. School can be annoying tho."
+        },
+        {
+            "Q": "How many days of the week are you active?",
+            "A": "I play outside or have sports like 4 days a week, I guess."
+        }
+    ],
+    "Extracurriculurs": [
+        {
+            "Q": "How do you feel about what you're being taught in school?",
+            "A": "It's okay, some stuff is cool, especially science. Math is boring though."
+        },
+        {
+            "Q": "Do you feel safe during your daily activities?",
+            "A": "Yeah, I feel safe. School's good and I'm always with friends."
+        },
+        {
+            "Q": "Do you have friends or classmates that you can spend time with throughout the day?",
+            "A": "Yep, I have a bunch of friends. We hang out a lot at school and after."
+        }
+    ],
+    "Oncology": [
+        {
+            "Q": "How do you feel about your next doctor's appointment?",
+            "A": "I'm a bit nervous but my mom says it's gonna be okay."
+        },
+        {
+            "Q": "How do your at-home medicines make you feel?",
+            "A": "They're okay, don't like the taste but if it helps, I'll take it."
+        },
+        {
+            "Q": "How do you feel about your treatments?",
+            "A": "Scared a little but everyone's really nice and they say it's helping."
+        }
+    ],
+    "Other": [
+        {
+            "Q": "On a scale of 1 to 10, how much pain would you say you have on a day-to-day basis?",
+            "A": "Maybe like a 2? Not much."
+        },
+        {
+            "Q": "Is there anything else you want to share with your doctor?",
+            "A": "Not really, just hope I can keep playing soccer and stuff."
+        }
+    ]
+}

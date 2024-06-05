@@ -1,0 +1,62 @@
+{
+    "Wellness": [
+        {
+            "Q": "Do you sometimes feel fever, fatigue, shortness or breath, or nausea?",
+            "A": "Yeah, kinda often. Mostly just really tired and out of breath easily."
+        },
+        {
+            "Q": "How many times do you usually eat a full meal in a day?",
+            "A": "Idk, like maybe 2? Not super hungry usually."
+        },
+        {
+            "Q": "How often do you wakeup throughout the night?",
+            "A": "Too much. Keep waking up and it’s hard to fall back asleep."
+        },
+        {
+            "Q": "Do you normally feel very angry, sad, or anxious throughout the day?",
+            "A": "Mostly just tired and a bit sad, not really angry."
+        },
+        {
+            "Q": "How many days of the week are you active?",
+            "A": "Not much, maybe 2 days if I feel up to it."
+        }
+    ],
+    "Extracurriculurs": [
+        {
+            "Q": "How do you feel about what you're being taught in school?",
+            "A": "It's okay, I guess. Hard to focus though."
+        },
+        {
+            "Q": "Do you feel safe during your daily activities?",
+            "A": "Yeah, mostly. Just tired all the time."
+        },
+        {
+            "Q": "Do you have friends or classmates that you can spend time with throughout the day?",
+            "A": "Some, but I don’t really feel like hanging out much."
+        }
+    ],
+    "Oncology": [
+        {
+            "Q": "How do you feel about your next doctor's appointment?",
+            "A": "Nervous, but my family helps me feel a bit better."
+        },
+        {
+            "Q": "How do your at-home medicines make you feel?",
+            "A": "Kinda sick sometimes, but I guess they’re supposed to help."
+        },
+        {
+            "Q": "How do you feel about your treatments?",
+            "A": "Scared, but trying to be hopeful."
+        }
+    ],
+    "Other": [
+        {
+            "Q": "On a scale of 1 to 10, how much pain would you say you have on a day-to-day basis?",
+            "A": "Around a 4, but some days are worse."
+        },
+        {
+            "Q": "Is there anything else you want to share with your doctor?",
+            "A": "Just really tired of feeling this way."
+        }
+    ]
+}

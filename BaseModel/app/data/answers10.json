@@ -1,0 +1,62 @@
+{
+    "Wellness": [
+        {
+            "Q": "Do you sometimes feel fever, fatigue, shortness or breath, or nausea?",
+            "A": "Nope, I feel good most days, just sometimes tired if I play too much."
+        },
+        {
+            "Q": "How many times do you usually eat a full meal in a day?",
+            "A": "I eat 3 meals, breakfast is my fav cuz I love pancakes!"
+        },
+        {
+            "Q": "How often do you wakeup throughout the night?",
+            "A": "I sleep like a log! Don't wake up till morning."
+        },
+        {
+            "Q": "Do you normally feel very angry, sad, or anxious throughout the day?",
+            "A": "Not really, only when I have to clean my room. But I'm happy when I'm playing or watching cartoons."
+        },
+        {
+            "Q": "How many days of the week are you active?",
+            "A": "I play outside almost every day except when it rains. So, like 5 or 6 days?"
+        }
+    ],
+    "Extracurriculurs": [
+        {
+            "Q": "How do you feel about what you're being taught in school?",
+            "A": "School's cool, I guess. Math is hard but I like science, especially the experiments."
+        },
+        {
+            "Q": "Do you feel safe during your daily activities?",
+            "A": "Yeah, I always stay where I can see my friends or teachers."
+        },
+        {
+            "Q": "Do you have friends or classmates that you can spend time with throughout the day?",
+            "A": "Sure do! I have a best friend, and we do everything together at school."
+        }
+    ],
+    "Oncology": [
+        {
+            "Q": "How do you feel about your next doctor's appointment?",
+            "A": "I'm a bit scared but my mom says it's to make sure I'm healthy, so it's okay."
+        },
+        {
+            "Q": "How do your at-home medicines make you feel?",
+            "A": "They're yucky but I feel stronger after I take them. Mom says they're like superpower juice."
+        },
+        {
+            "Q": "How do you feel about your treatments?",
+            "A": "They make me tired but my doctor is nice and tells me jokes, so I feel a bit better."
+        }
+    ],
+    "Other": [
+        {
+            "Q": "On a scale of 1 to 10, how much pain would you say you have on a day-to-day basis?",
+            "A": "Like a 2? Only when I scrape my knee or something."
+        },
+        {
+            "Q": "Is there anything else you want to share with your doctor?",
+            "A": "Can I have more lollipops when I visit?"
+        }
+    ]
+}
